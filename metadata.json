@@ -1,0 +1,6 @@
+{
+  "name": "WalletAll",
+  "description": "Smart electronic wallet for loyalty cards, transit, banking, NFC intercom chips, and access keys with Apple Wallet aesthetics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
